@@ -146,7 +146,7 @@
     <div
       class="container mx-auto px-4 text-center text-sm text-base-content/70"
     >
-      <p>2024 ЗАО "Солигорский институт проблем ресурсосбережения"</p>
+      <p>2026 ЗАО "Солигорский институт проблем ресурсосбережения"</p>
     </div>
   </footer>
 </div>
